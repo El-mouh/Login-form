@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: #ef8172;
+}
+.card {
+  padding: 80px 60px;
+}
+h1 {
+  padding-bottom: 10%;
+}
+button {
+  margin-top: 5%;
+}
+h5 {
+  margin-top: 5%;
+}
